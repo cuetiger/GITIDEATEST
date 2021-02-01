@@ -1,4 +1,4 @@
-package com.tiger.maven;
+package com.tiger;
 
 import org.junit.Test;
 
